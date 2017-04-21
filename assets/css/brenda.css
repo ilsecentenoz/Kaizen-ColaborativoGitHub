@@ -16,13 +16,26 @@ h1{
   width: 600px;
   right: 15%;
 }
-.imageBren{
+img{
     border-radius: 100%;
     width: 300px;
+    height: 300px;
 }
 #hobbiesBrenda{
+
   position: relative;
-  top: 400px;
+  top: 40%;
   left: 40%;
+
+}
+
+h2{
+  width:200px;
+}
+
+.theHobbiesBrenda{
+  width: 350px;
+  display: block;
+
 
 }
