@@ -1,0 +1,19 @@
+body {
+
+}
+
+header{
+  background-color: #ACFA58;
+  margin-bottom: 20px;
+}
+
+a {
+  background-color: #ACFA58;
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+a:hover{
+  color: pink;
+}
