@@ -1,3 +1,12 @@
+#bodyClaus{
+  background: #FFF8E1;
+  font-family: 'Courgette', cursive;
+}
+
 #encabezadoClauss{
-  background: #FFECB3;
+ color: #A6A938;
+}
+.imagenClass{
+  height: 300px;
+  width: 300px;
 }
