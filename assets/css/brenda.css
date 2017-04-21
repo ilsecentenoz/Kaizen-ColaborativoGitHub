@@ -1,8 +1,27 @@
-.imageBren{
-    border-radius: 100%;
+h1{
+  text-align: center;
+  font-family: helvetica;
 }
 
+
+}#aboutMeBren{
+  position: relative;
+}
 .myPhotoBren{
   position: absolute;
   left: 15%;
+}
+.myBioBren{
+  position: absolute;
+  width: 600px;
+  right: 15%;
+}
+.imageBren{
+    border-radius: 100%;
+    width: 300px;
+}
+#hobbiesBrenda{
+  position: relative;
+  top: 400px;
+
 }
