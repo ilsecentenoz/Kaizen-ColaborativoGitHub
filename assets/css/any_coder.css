@@ -1,8 +1,9 @@
 #bodyAny{
   font-family: 'Lobster', cursive;
-
 }
 #headAny{
+  font-family: 'Lobster', cursive;
+
 }
 #fotoAny{
   height: 300px;
@@ -21,8 +22,18 @@
   width: 300px;
 }
 #descripcion{
+
   position: relative;
   display: inline-block;
-  top: 0px;
+  top: -90px;
   left: 300px;
+  width: 350px;
+  height: 200px;
+}
+#presentacion{
+  font-size: 40px;S
+}
+#hobbies{
+ display: block;
+
 }
