@@ -1,7 +1,28 @@
-#headAny{
+#bodyAny{
   font-family: 'Lobster', cursive;
+
+}
+#headAny{
 }
 #fotoAny{
   height: 300px;
   width: 300px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+}
+#sectionFoto{
+  position: relative;
+  display: inline-block;
+  top:50px;
+  left: 150px;
+  height: 300px;
+  width: 300px;
+}
+#descripcion{
+  position: relative;
+  display: inline-block;
+  top: 0px;
+  left: 300px;
 }
