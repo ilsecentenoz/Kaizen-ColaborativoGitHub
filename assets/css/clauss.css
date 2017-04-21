@@ -5,20 +5,27 @@
 
 #encabezadoClauss{
  color: #A6A938;
- margin-left: 680px;
+ margin-left:800px;
+ position: relative;
+ font-size: 45px;
+ margin-bottom: 10px;
+
 }
 .imagenClass{
   height: 300px;
   width: 300px;
 
 }
+#line{
+  background:#AEEA00;
+  width: 900px;
+  height: 10px;
+}
 #ContenidoUno{
   color: #7C7F15;
   width: 500px;
   display: inline-block;
   text-align: justify;
-  border-top: solid 5px;
-  border-color:#AEEA00;
   padding: 10px;
   margin-right: 70px;
 }
