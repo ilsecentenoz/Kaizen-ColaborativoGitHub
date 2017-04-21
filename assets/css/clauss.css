@@ -1,12 +1,24 @@
 #bodyClaus{
-  background: #FFF8E1;
+  background: #FBFDA8;
   font-family: 'Courgette', cursive;
 }
 
 #encabezadoClauss{
  color: #A6A938;
+ margin-left: 680px;
 }
 .imagenClass{
   height: 300px;
   width: 300px;
+
+}
+#ContenidoUno{
+  color: #7C7F15;
+  width: 500px;
+  display: inline-block;
+  text-align: justify;
+  border-top: solid 5px;
+  border-color:#AEEA00;
+  padding: 10px;
+  margin-right: 70px;
 }
