@@ -1,0 +1,19 @@
+body{
+  background: #796E95;
+}
+#nombre{
+  font-family: 'Delius Unicase', cursive;
+  background: #EC0B43;
+  color: white;
+  text-align: center;
+  font-size: 3em;
+  padding-bottom: 15px;
+  padding-top: 10px;
+
+}
+
+span{
+  position: inline-block;
+  color: white;
+  background: #D862A5;
+}
