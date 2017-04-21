@@ -4,17 +4,42 @@
 }
 
 body{
-	background-color: 
+	background-color: #B8E0D2; 
+}
+
+#barra{
+	background-color: #F397D6;
+	width: 100%;
+	height: 50px;
+
+
+}
+
+#barra h1{
+	font-size: 100px;
+	color: #FA58AC;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
 }
 
 .texto{
 	padding: 200px;
+
 }
 
-.texto h1{
-	color:pink;
+
+.texto p{
+	font-size: 30px;
+	color: #6E6E6E;
+	font-family: 'Cabin Sketch', cursive;
 }
 
 .foto{
 	float: left;
 }	
+
+.img{
+	display: inline-block;
+	margin:30px;
+	width: 200px;
+}
