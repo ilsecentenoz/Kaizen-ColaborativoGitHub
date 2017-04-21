@@ -17,3 +17,20 @@ a {
 a:hover{
   color: pink;
 }
+
+#contenedorPrincipal {
+  position: relative;
+}
+
+.imagenes {
+  position: absolute;
+  left: 10%;
+  margin: 10px;
+}
+
+.texto {
+  position: absolute;
+  right: 10%;
+  width: 400px;
+  margin: 10px;
+}
