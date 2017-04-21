@@ -35,5 +35,7 @@
 }
 #hobbies{
  display: block;
-
+}
+#titulo{
+  text-align: center;
 }
