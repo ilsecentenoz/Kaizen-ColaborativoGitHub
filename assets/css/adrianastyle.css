@@ -1,0 +1,17 @@
+*{
+  margin: 0 auto;
+}
+#nombreAdriana{
+ font-family: 'Montserrat', sans-serif;
+ background-color: #2E4172;
+ font-size: 40px;
+ color:#FFF;
+ padding-top: 2%;
+ padding-left: 15%;
+ padding-bottom: 2%;
+ margin-bottom: 3px solid #55AA55;
+}
+
+#adrianaPrincipal{
+  background-image: url(../img/adriana/adriana-fondo.jpg);
+}
