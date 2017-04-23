@@ -68,3 +68,9 @@ h2{
 p {
   font-size: 25px;
 }
+
+#contacto {
+  position: relative;
+  top: 500px;
+  text-align: center;
+}
