@@ -1,10 +1,10 @@
 body {
-  background-color: #7AE7C7;
+  background-color: #E2A9F3;
 }
 
 header{
     font-family: 'Delius Unicase', cursive;
-    background: #EC0B43;
+    background: #7BF06F;
     color: white;
     text-align: center;
     font-size: 1em;
@@ -13,7 +13,7 @@ header{
 }
 
 a {
-  background-color: #ACFA58;
+  background-color: #FC93EF;
   display: inline-block;
   padding: 5px;
 }
