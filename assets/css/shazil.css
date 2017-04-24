@@ -3,12 +3,14 @@ body{
   font-family: 'Monserrat', sans-serif;
 }
 #linea{
+  margin-left: 153px;
   background-color: black;
   width: 250px;
   height: 4px;
-
 }
+
 #nombre{
+
   font-family: 'Monserrat', sans-serif;
   background: black;
   color: white;
@@ -20,8 +22,8 @@ body{
 #nombre:hover{
   color: #978EAE;
 }
-h1{
-  width:500px;
+h2{
+  margin-left: 153px;
 }
 
 .divInformacion{
@@ -30,7 +32,7 @@ h1{
 }
 p{
   float:left;
-  margin-left: auto;
+  margin-left: 150px;
   font-size: 20px;
   width: 600px;
   text-align:justify;
@@ -43,11 +45,11 @@ p{
 }
 
 .foto{
-  margin-left: 20px;
+  margin-left: 50px;
+  margin-right: 250px;
   width:400px;
   height: 400px;
   float:left;
-  padding-bottom: 100px;
   padding-right: 100px;
 }
 .opacity {
@@ -59,16 +61,12 @@ p{
   -webkit-filter: opacity(100%);
   filter: opacity(100%);
 }
-#hobbies{
-display: inline-block;
 
-}
 .icons{
-  width: 128px;
-  height: 128px;
-  display: inline-block;
-  margin-left:100px;
-  margin-right: 100px;
+  float:left;
+  width: 100px;
+  height: 100px;
+  display: inline;
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
@@ -76,4 +74,10 @@ display: inline-block;
   border-top: 3px  solid #E7286B;
   border-bottom: 3px  solid #E7286B;
 
+}
+#organizarIcons{
+  padding-left: 300px;
+  align-items: center;
+  width:100%;
+  position:relative;
 }
