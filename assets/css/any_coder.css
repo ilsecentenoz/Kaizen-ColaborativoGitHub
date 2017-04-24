@@ -49,10 +49,25 @@
 #primero{
   position: relative;
   display: inline-block;
-  left: 30px;
+  left: 150px;
 }
 #segundo{
   position: relative;
   display: inline-block;
-  left: 60px;
+  left: 180px;
+}
+#tercero{
+  position: relative;
+  display: inline-block;
+  left: 210px;
+}
+#cuarto{
+  position: relative;
+  display: inline-block;
+  left: 240px;
+}
+#quinto{
+  position: relative;
+  display: inline-block;
+  left: 280px;
 }
