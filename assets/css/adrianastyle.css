@@ -71,11 +71,20 @@
 .linkHobbie{
   color: whitesmoke;
   text-decoration: none;
-  padding: 12px;
+  padding: 145px;
   font-family: 'Palanquin Dark', sans-serif;
+  font-size: 23px;
 
+}
+
+.linkHobbie:hover{
+  color: #978EAE;
 }
 
 #seccionHobbies{
   padding-top:5%;
+}
+#volver{
+  width:150px;
+  margin-left:600px;
 }
