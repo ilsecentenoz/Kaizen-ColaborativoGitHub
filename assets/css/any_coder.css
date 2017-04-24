@@ -22,6 +22,7 @@
   width: 300px;
 }
 #descripcion{
+  font-family: 'Indie Flower', cursive;
   position: relative;
   display: inline-block;
   top: -90px;
@@ -75,5 +76,10 @@
   position: absolute;
   height: 50px;
   width: 80px;
+  left: 50px;
+}
+#hobieDescripcion{
+  font-family: 'Indie Flower', cursive;
+  position: absolute;
   left: 50px;
 }
