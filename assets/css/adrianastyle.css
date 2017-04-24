@@ -19,19 +19,40 @@
 
 #fotoAdriana{
   width: 300px;
+  margin-left: 15%;
 }
 #adriana-imagen{
   position: relative;
   padding: 7% 7% 7% 7%;
-  margin-top: 4px 4px 4px 4px  solid #FFF;
+  margin-left: 150px;
   display: inline-block;
 }
 #descripcion-adriana{
   position: relative;
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-  width: 350px;
+  font-size: 13px;
+  width: 300px;
   background-color: #FFF;
   padding: 2% 2% 2% 2%;
+  margin-top: 1px solid red;
+
+}
+
+.fotoHobbies{
+
+ height: 200px;
+ width: 200px;
+ display: inline-block;
+ background-repeat: no-repeat;
+ background-position: 50%;
+ border-radius: 50%;
+ background-size: 100% auto;
+ margin-left: 180px;
+
+}
+
+.hobbies {
+  display: inline-block;
+  padding-bottom: 100px;
 }
