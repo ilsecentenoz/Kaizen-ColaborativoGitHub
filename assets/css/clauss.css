@@ -4,16 +4,21 @@
 }
 
 #encabezadoClauss{
- color: #A6A938;
- margin-left:800px;
+ color: black;
+ margin-left:500px;
  position: relative;
  font-size: 45px;
  margin-bottom: 10px;
-
+ display:inline-block;
 }
+.encabezadoCompleto{
+  display:inline-block;
+}
+
 .imagenClass{
-  height: 300px;
-  width: 300px;
+  height: 220px;
+  width: 220px;
+  margin-top: 20px;
 
 }
 #line{
@@ -21,11 +26,28 @@
   width: 900px;
   height: 10px;
 }
-#ContenidoUno{
+.ContenidoUno{
   color: #7C7F15;
   width: 500px;
   display: inline-block;
+  margin-left: 90px;
   text-align: justify;
   padding: 10px;
-  margin-right: 70px;
+  font-size: 20px;
+}
+.hobbiesClass{
+  height:120px;
+  width: 120px;
+  margin: 40px;
+  margin-top: 20px;
+  display: inline-block;
+  border-top: solid 3px;
+  border-bottom:  solid 3px;
+  border-color: #AEEA00;
+  padding: 10px;
+}
+.back{
+  height: 60px;
+  display: inline-block;
+  margin-bottom: 0px;
 }
