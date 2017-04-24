@@ -71,3 +71,9 @@
   display: inline-block;
   left: 280px;
 }
+#logo{
+  position: absolute;
+  height: 50px;
+  width: 80px;
+  left: 50px;
+}
