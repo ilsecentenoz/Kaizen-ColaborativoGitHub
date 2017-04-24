@@ -35,19 +35,44 @@
   padding: 10px;
   font-size: 20px;
 }
+
+.back{
+  height: 60px;
+  display: inline-block;
+  margin-bottom: 0px;
+}
+.titulo{
+  background:#AEEA00 ;
+  color: white;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  margin-left: 40px;
+  position: absolute;
+  display: inline-block;
+  left: 6px;
+  top:160px;
+  padding-top: 10px;
+  font-size: 20px;
+
+
+}
+.divImagen{
+  margin-right:  50px;
+  position: relative;
+  display: inline-block;
+  margin-top: 0px;
+}
 .hobbiesClass{
   height:120px;
   width: 120px;
   margin: 40px;
-  margin-top: 20px;
+  margin-top: 10px;
   display: inline-block;
   border-top: solid 3px;
   border-bottom:  solid 3px;
   border-color: #AEEA00;
   padding: 10px;
-}
-.back{
-  height: 60px;
-  display: inline-block;
-  margin-bottom: 0px;
+  position: relative;
+
 }
