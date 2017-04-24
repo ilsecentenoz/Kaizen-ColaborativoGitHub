@@ -51,3 +51,8 @@
   display: inline-block;
   left: 30px;
 }
+#segundo{
+  position: relative;
+  display: inline-block;
+  left: 60px;
+}
