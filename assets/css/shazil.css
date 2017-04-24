@@ -1,28 +1,79 @@
 body{
-  background: #796E95;
+  background-color: white;
+  font-family: 'Monserrat', sans-serif;
+}
+#linea{
+  background-color: black;
+  width: 250px;
+  height: 4px;
+
 }
 #nombre{
-  font-family: 'Delius Unicase', cursive;
-  background: #EC0B43;
+  font-family: 'Monserrat', sans-serif;
+  background: black;
   color: white;
   text-align: center;
   font-size: 3em;
   padding-bottom: 15px;
   padding-top: 10px;
-
+}
+#nombre:hover{
+  color: #978EAE;
+}
+h1{
+  width:500px;
 }
 
-span{
-  display: inline-block;
-  color: white;
-  background: #D862A5;
+.divInformacion{
+  position: relative;
+
 }
-.imagenShazil{
+p{
+  float:left;
+  margin-left: auto;
+  font-size: 20px;
+  width: 600px;
+  text-align:justify;
+}
+.imageneShazil{
   width:300px;
   height: 300px;
   display: inline-block;
   position:absolute;
 }
+
+.foto{
+  margin-left: 20px;
+  width:400px;
+  height: 400px;
+  float:left;
+  padding-bottom: 100px;
+  padding-right: 100px;
+}
+.opacity {
+  -webkit-filter: opacity(50%);
+  filter: opacity(50%);
+}
+
+.opacity:hover{
+  -webkit-filter: opacity(100%);
+  filter: opacity(100%);
+}
 #hobbies{
-  position:relative;
+display: inline-block;
+
+}
+.icons{
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+  margin-left:100px;
+  margin-right: 100px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  border-top: 3px  solid #E7286B;
+  border-bottom: 3px  solid #E7286B;
+
 }
