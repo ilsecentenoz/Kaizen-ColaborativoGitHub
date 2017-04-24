@@ -15,11 +15,12 @@
 #adrianaPrincipal{
   background-image: url(../img/adriana/adriana-fondo.jpg);
   align-self: center;
+  opacity: inherit;
 }
 
 #fotoAdriana{
+  margin-left: 35%;
   width: 300px;
-  margin-left: 15%;
 }
 #adriana-imagen{
   position: relative;
@@ -32,10 +33,12 @@
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   font-size: 13px;
-  width: 300px;
+  width: 250px;
   background-color: #FFF;
   padding: 2% 2% 2% 2%;
-  margin-top: 1px solid red;
+  margin-top: 1px;
+  margin-left: 2%;
+  text-align: center;
 
 }
 
@@ -55,4 +58,24 @@
 .hobbies {
   display: inline-block;
   padding-bottom: 100px;
+}
+
+#baseHobbies {
+  background-color: black;
+}
+.nombreHobbie {
+  display:inline-block;
+  padding:20px;
+  list-style: none;
+}
+.linkHobbie{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 12px;
+  font-family: 'Palanquin Dark', sans-serif;
+
+}
+
+#seccionHobbies{
+  padding-top:5%;
 }
